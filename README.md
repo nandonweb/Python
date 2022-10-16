@@ -1,3 +1,3 @@
 # Python
 
-### Aulas com o gustavo guanabara
+### Aulas com o Curso em Video
