@@ -1,3 +1,5 @@
+NUNCA USAR O MESMO NOME DO MODULO NO ARQUIVO.PY!!!
+
 DearPyGui = Interface Grafica
 math = matematica
 TensorFlow = machine learning
