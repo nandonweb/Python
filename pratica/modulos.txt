@@ -1,0 +1,5 @@
+DearPyGui = Interface Grafica
+math = matematica
+TensorFlow = machine learning
+pymysql = mysql
+
