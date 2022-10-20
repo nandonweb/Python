@@ -1,4 +1,3 @@
-import colorama
 from colorama import Fore
 from colorama import Style
 
