@@ -15,4 +15,8 @@ resultado = cursor.fetchall()
 
 for linha in resultado:
   print('='*20)
-  print('Nick', '|', linha[1], '|', 'Genero', '|', linha[3])
+  print('Nick', '|','Genero', '|')
+  print(linha[1], '|', linha[3])
+
+# melhor script
+# criar um menu de cadastro e de leitura dentro desse script / com while, if else
